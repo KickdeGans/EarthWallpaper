@@ -1,6 +1,8 @@
 # EarthWallpaper
 Download a bunch of images from Google Earth for an awesome wallpaper slideshow
 
+<img src="imgv2-2.png" width=600></img>
+
 ### Instructions:
 Create images folder:
 ```shell
